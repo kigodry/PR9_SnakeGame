@@ -1,0 +1,15 @@
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\bin\Debug\net6.0\ПР9 - Змейка.exe
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\bin\Debug\net6.0\ПР9 - Змейка.deps.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\bin\Debug\net6.0\ПР9 - Змейка.runtimeconfig.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\bin\Debug\net6.0\ПР9 - Змейка.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\bin\Debug\net6.0\ПР9 - Змейка.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\refint\ПР9 - Змейка.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ПР9 - Змейка.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\ПР9 - Змейка\ПР9 - Змейка\obj\Debug\net6.0\ref\ПР9 - Змейка.dll
