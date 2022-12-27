@@ -13,8 +13,8 @@ namespace ПР9___Змейка
 
         public Canvans()
         {
-            Width = 40;
-            Height = 20;
+            Width = 50;
+            Height = 47;
 
             Console.CursorVisible = false;
         }

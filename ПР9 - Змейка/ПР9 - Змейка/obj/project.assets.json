@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivano\\OneDrive\\Рабочий стол\\C# Projects\\ПР9 - Змейка\\ПР9 - Змейка\\ПР9 - Змейка.csproj",
+      "projectUniqueName": "C:\\Users\\ivano\\OneDrive\\Документы\\GitHub\\PR9_SnakeGame\\ПР9 - Змейка\\ПР9 - Змейка\\ПР9 - Змейка.csproj",
       "projectName": "ПР9 - Змейка",
-      "projectPath": "C:\\Users\\ivano\\OneDrive\\Рабочий стол\\C# Projects\\ПР9 - Змейка\\ПР9 - Змейка\\ПР9 - Змейка.csproj",
+      "projectPath": "C:\\Users\\ivano\\OneDrive\\Документы\\GitHub\\PR9_SnakeGame\\ПР9 - Змейка\\ПР9 - Змейка\\ПР9 - Змейка.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivano\\OneDrive\\Рабочий стол\\C# Projects\\ПР9 - Змейка\\ПР9 - Змейка\\obj\\",
+      "outputPath": "C:\\Users\\ivano\\OneDrive\\Документы\\GitHub\\PR9_SnakeGame\\ПР9 - Змейка\\ПР9 - Змейка\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

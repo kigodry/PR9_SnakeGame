@@ -26,7 +26,7 @@ namespace ПР9___Змейка
                 {
                     canvans.drawCanvans();
 
-                    Console.SetCursorPosition(45, 1);
+                    Console.SetCursorPosition(52, 1);
                     Console.WriteLine("SCORE: {0}", snake.score);
                     snake.Input();
                     food.drawFood();
@@ -42,7 +42,7 @@ namespace ПР9___Змейка
                     Console.WriteLine(e.Message);
 
                     Console.WriteLine("Restar Game? (y/n)");
-                    char c = char.Parse(Console.ReadLine());
+                    char c = Console.ReadKey().KeyChar;
 
                     switch(c)
                     {
